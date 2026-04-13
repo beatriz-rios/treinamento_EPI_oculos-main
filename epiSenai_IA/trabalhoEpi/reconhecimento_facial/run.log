@@ -1,0 +1,43 @@
+[SISTEMA] Carregando Modelos de Face...
+[SISTEMA] Conectando ao banco para treino...
+[SISTEMA] Conectado. Buscando funcionarios...
+[ERRO TREINO] name 'cursor' is not defined
+==================================================
+   EPI GUARD - SISTEMA DE RECONHECIMENTO (FLASK)
+   Porta: 5001 | Host: 0.0.0.0
+==================================================
+ * Serving Flask app 'sistema_final'
+ * Debug mode: off
+python : WARNING: This 
+is a development 
+server. Do not use it 
+in a production 
+deployment. Use a 
+production WSGI server 
+instead.
+No linha:1 caractere:1
++ python 
+"c:\xampp\htdocs\Vitor 
+Banco\epi-mudanca-vitor
+-main\epi-mudanc ...
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (WARNING: This   
+  i...server instea    
+d.:String) [], Rem    
+oteException
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
+ * Running on all 
+addresses (0.0.0.0)
+ * Running on 
+http://127.0.0.1:5001
+ * Running on http://10
+.91.136.137:5001
+Press CTRL+C to quit
