@@ -7,7 +7,7 @@ import time
 # 1. CONFIGURAÇÕES DA IA
 # ==============================================================================
 # O caminho exato da SUA IA que você forneceu
-CAMINHO_MODELO_CUSTOM = "C:/xampp\htdocs/treinamento_EPI_oculos-main/runs\detect/train\weights/best.pt"
+CAMINHO_MODELO_CUSTOM = "C:/xampp/htdocs/treinamento_EPI_oculos-main/runs/detect/train/weights/best.pt"
 # ==============================================================================
 # VARIÁVEIS GLOBAIS
 # ==============================================================================
